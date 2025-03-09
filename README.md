@@ -1,7 +1,7 @@
 # home-made-directory-buster
 It's a small directory busting tool.
 
-Usage is python buster.py [OPTIONS] url file
+Usage: python buster.py [OPTIONS] url file
 
 The options are:
 
